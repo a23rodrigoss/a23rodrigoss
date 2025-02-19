@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a23rodrigoss
 - 👀 I’m interested in Web and Java Development
-- 🌱 I am studying the Official Vocational Training Specialization Course in Cybersecurity from the Xunta de Galicia.
+- 🌱 I am studying the 'Specialization Course in Cybersecurity in Information Technology Environments' in a face-to-face modality, an official Vocational Education and Training (VET) program by the Xunta de Galicia. This course is accessible to graduates in Multiplatform Application Development and other higher-level programs.
 - 💞️ I’m looking to collaborate on my colleagues' projects
 - 📫 How to reach me: a23rodrigoss@iessanclemente.net
 - 😄 Pronouns: he/him
