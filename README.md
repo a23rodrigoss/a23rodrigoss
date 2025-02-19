@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a23rodrigoss
 - 👀 I’m interested in Web and Java Development
-- 🌱 I’m currently learning Cibersecurity
+- 🌱 I am studying the Official Vocational Training Specialization Course in Cybersecurity from the Xunta de Galicia.
 - 💞️ I’m looking to collaborate on my colleagues' projects
 - 📫 How to reach me: a23rodrigoss@iessanclemente.net
 - 😄 Pronouns: he/him
